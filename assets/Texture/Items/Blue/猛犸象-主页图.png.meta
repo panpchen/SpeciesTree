@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a2697431-3d16-434e-9f63-24b9b168d105",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 98,
+  "height": 97,
+  "platformSettings": {},
+  "subMetas": {
+    "猛犸象-主页图": {
+      "ver": "1.0.4",
+      "uuid": "9ffcd273-fa55-41f6-a07a-d6a9b4961d1b",
+      "rawTextureUuid": "a2697431-3d16-434e-9f63-24b9b168d105",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 98,
+      "height": 97,
+      "rawWidth": 98,
+      "rawHeight": 97,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

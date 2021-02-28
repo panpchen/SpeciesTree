@@ -1,0 +1,12 @@
+{
+  "ver": "1.1.2",
+  "uuid": "227ff139-19cf-4483-be32-bd2d2a3d2d37",
+  "isBundle": false,
+  "bundleName": "Audios",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

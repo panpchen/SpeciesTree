@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "61dd0c47-9ee8-4480-989d-728009108cd1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 98,
+  "height": 94,
+  "platformSettings": {},
+  "subMetas": {
+    "太平洋大鲵-主页图": {
+      "ver": "1.0.4",
+      "uuid": "e40518ee-5521-4239-bbf2-28671e40e975",
+      "rawTextureUuid": "61dd0c47-9ee8-4480-989d-728009108cd1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 98,
+      "height": 94,
+      "rawWidth": 98,
+      "rawHeight": 94,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

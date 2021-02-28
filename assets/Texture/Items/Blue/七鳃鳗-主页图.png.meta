@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a54fa653-22f4-44c3-b303-f6dbda025dfe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 98,
+  "height": 95,
+  "platformSettings": {},
+  "subMetas": {
+    "七鳃鳗-主页图": {
+      "ver": "1.0.4",
+      "uuid": "a6063071-fe36-4cd8-bc1b-f7ebc06e82f9",
+      "rawTextureUuid": "a54fa653-22f4-44c3-b303-f6dbda025dfe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 98,
+      "height": 95,
+      "rawWidth": 98,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

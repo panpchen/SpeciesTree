@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8e0c3ff4-df22-409d-9cf8-12f1e7792b7a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 98,
+  "height": 96,
+  "platformSettings": {},
+  "subMetas": {
+    "森林古猿-主页图": {
+      "ver": "1.0.4",
+      "uuid": "fd974ea4-1085-4e43-9d17-7b45b6273633",
+      "rawTextureUuid": "8e0c3ff4-df22-409d-9cf8-12f1e7792b7a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 98,
+      "height": 96,
+      "rawWidth": 98,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

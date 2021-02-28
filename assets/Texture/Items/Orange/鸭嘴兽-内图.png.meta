@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "885277c6-6c0a-40fd-b407-3cf169d5d072",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1066,
+  "height": 681,
+  "platformSettings": {},
+  "subMetas": {
+    "鸭嘴兽-内图": {
+      "ver": "1.0.4",
+      "uuid": "d4d7c07b-c08c-4dbb-9561-1260806ffbca",
+      "rawTextureUuid": "885277c6-6c0a-40fd-b407-3cf169d5d072",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1066,
+      "height": 681,
+      "rawWidth": 1066,
+      "rawHeight": 681,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

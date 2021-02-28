@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "654f4caa-8483-4751-996a-f09aa52df78d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1066,
+  "height": 947,
+  "platformSettings": {},
+  "subMetas": {
+    "三叶虫-内图": {
+      "ver": "1.0.4",
+      "uuid": "920da551-e317-41ca-8afd-068375dcaf66",
+      "rawTextureUuid": "654f4caa-8483-4751-996a-f09aa52df78d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1066,
+      "height": 947,
+      "rawWidth": 1066,
+      "rawHeight": 947,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

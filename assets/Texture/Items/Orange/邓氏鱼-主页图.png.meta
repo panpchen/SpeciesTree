@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "dec8f076-d82e-435f-84b5-6d6470932f30",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 98,
+  "height": 97,
+  "platformSettings": {},
+  "subMetas": {
+    "邓氏鱼-主页图": {
+      "ver": "1.0.4",
+      "uuid": "e9d51bd3-eb5e-4db0-8e1e-fcc64c96b541",
+      "rawTextureUuid": "dec8f076-d82e-435f-84b5-6d6470932f30",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 98,
+      "height": 97,
+      "rawWidth": 98,
+      "rawHeight": 97,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

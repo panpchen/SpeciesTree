@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "70bc9ab1-47fb-4373-9541-0cabe3ad66f3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 96,
+  "height": 98,
+  "platformSettings": {},
+  "subMetas": {
+    "昆明鱼-主页图": {
+      "ver": "1.0.4",
+      "uuid": "76afda8e-8a82-4989-8574-0b6b585edfa0",
+      "rawTextureUuid": "70bc9ab1-47fb-4373-9541-0cabe3ad66f3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 96,
+      "height": 98,
+      "rawWidth": 96,
+      "rawHeight": 98,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

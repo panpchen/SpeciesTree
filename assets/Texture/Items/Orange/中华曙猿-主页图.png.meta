@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9bf5bfeb-5614-4f6b-aa49-5d5b7bece8f8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 98,
+  "height": 98,
+  "platformSettings": {},
+  "subMetas": {
+    "中华曙猿-主页图": {
+      "ver": "1.0.4",
+      "uuid": "73ae789e-3d88-4ff8-ab75-2e226a484c4c",
+      "rawTextureUuid": "9bf5bfeb-5614-4f6b-aa49-5d5b7bece8f8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 98,
+      "height": 98,
+      "rawWidth": 98,
+      "rawHeight": 98,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0b2bb28f-c8ba-46ca-b091-af885fed9f00",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 98,
+  "height": 95,
+  "platformSettings": {},
+  "subMetas": {
+    "盾龟龙-主页图": {
+      "ver": "1.0.4",
+      "uuid": "1fed85ea-4a93-4fb0-abbf-1a95d39555b3",
+      "rawTextureUuid": "0b2bb28f-c8ba-46ca-b091-af885fed9f00",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 98,
+      "height": 95,
+      "rawWidth": 98,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

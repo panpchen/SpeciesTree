@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "dccaf662-7e02-493f-b547-30378e829adf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1066,
+  "height": 947,
+  "platformSettings": {},
+  "subMetas": {
+    "邓氏鱼-内图": {
+      "ver": "1.0.4",
+      "uuid": "4e730307-c1d4-443a-b159-d245ab8e5b76",
+      "rawTextureUuid": "dccaf662-7e02-493f-b547-30378e829adf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1066,
+      "height": 947,
+      "rawWidth": 1066,
+      "rawHeight": 947,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

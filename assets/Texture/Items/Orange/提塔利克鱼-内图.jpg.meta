@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "fd78d286-e57c-45d2-b228-06dfc03edf82",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1066,
+  "height": 678,
+  "platformSettings": {},
+  "subMetas": {
+    "提塔利克鱼-内图": {
+      "ver": "1.0.4",
+      "uuid": "1fc6c358-efdd-4915-9d80-75791b0cfe27",
+      "rawTextureUuid": "fd78d286-e57c-45d2-b228-06dfc03edf82",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1066,
+      "height": 678,
+      "rawWidth": 1066,
+      "rawHeight": 678,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

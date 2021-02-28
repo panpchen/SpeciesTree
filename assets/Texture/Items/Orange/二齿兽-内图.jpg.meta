@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ed85e915-ce92-488a-a893-9f402318e26d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1066,
+  "height": 666,
+  "platformSettings": {},
+  "subMetas": {
+    "二齿兽-内图": {
+      "ver": "1.0.4",
+      "uuid": "43b108b0-ca55-4250-882a-0971fdda946b",
+      "rawTextureUuid": "ed85e915-ce92-488a-a893-9f402318e26d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1066,
+      "height": 666,
+      "rawWidth": 1066,
+      "rawHeight": 666,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

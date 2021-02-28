@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7d56004e-e39d-49c8-8005-9b7f6a247c37",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1066,
+  "height": 711,
+  "platformSettings": {},
+  "subMetas": {
+    "霸王龙-内图": {
+      "ver": "1.0.4",
+      "uuid": "a76b07bf-9d53-4379-bde6-240491843113",
+      "rawTextureUuid": "7d56004e-e39d-49c8-8005-9b7f6a247c37",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1066,
+      "height": 711,
+      "rawWidth": 1066,
+      "rawHeight": 711,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

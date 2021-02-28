@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c59a92c4-091e-4b02-88cc-084d6dd69371",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 98,
+  "height": 95,
+  "platformSettings": {},
+  "subMetas": {
+    "现代人-主页图": {
+      "ver": "1.0.4",
+      "uuid": "366c2a48-63c0-4459-a0a1-4a1fa688b4c7",
+      "rawTextureUuid": "c59a92c4-091e-4b02-88cc-084d6dd69371",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 98,
+      "height": 95,
+      "rawWidth": 98,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

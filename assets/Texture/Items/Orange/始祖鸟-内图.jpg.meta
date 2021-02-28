@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1e2f56bb-716e-4448-9b5a-2d10585197d0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1066,
+  "height": 799,
+  "platformSettings": {},
+  "subMetas": {
+    "始祖鸟-内图": {
+      "ver": "1.0.4",
+      "uuid": "1bfd91c5-d664-4b1a-aace-6b11850a8a7a",
+      "rawTextureUuid": "1e2f56bb-716e-4448-9b5a-2d10585197d0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1066,
+      "height": 799,
+      "rawWidth": 1066,
+      "rawHeight": 799,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
