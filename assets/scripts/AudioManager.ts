@@ -9,6 +9,7 @@ const { ccclass, property } = cc._decorator;
 
 @ccclass
 export default class AudioManager {
+  jj;
   public static playItemSound(name: string) {
     const path = `Audios/Items/${name}`;
     cc.resources.load(path, cc.AudioClip, (err: any, clip: cc.AudioClip) => {
@@ -16,7 +17,7 @@ export default class AudioManager {
         cc.error(err);
         return;
       }
-      cc.audioEngine.play(clip, false, 0.5);
+      cc.audioEngine.play(clip, false, 1);
     });
   }
 
@@ -27,7 +28,11 @@ export default class AudioManager {
         cc.error(err);
         return;
       }
-      cc.audioEngine.play(clip, false, 1);
+      cc.audioEngine.play(clip, false, 0.8);
     });
+  }
+
+  public static stopAllItemSound() {
+    cc.audioEngine.stopAll();
   }
 }
