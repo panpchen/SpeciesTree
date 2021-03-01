@@ -22,25 +22,27 @@ export default class PopUI extends cc.Component {
   spList: cc.SpriteFrame[] = [];
   private _demo: Demo = null;
 
-  onLoad() {
-    this.node.opacity = 0;
-  }
   init(demo, data) {
-    cc.tween(this.node).to(0.2, { opacity: 255 }).start();
+    this.node.opacity = 0;
+    cc.tween(this.node)
+      .to(0.2, { opacity: 255 })
+      .call(() => {
+        this._demo = demo;
+        this.nameLabel.string = data.name;
+        this.infoLabel.string = data.txt;
+        for (let i = 0; i < this.spList.length; i++) {
+          const spName = this.spList[i].name.substring(
+            0,
+            this.spList[i].name.indexOf("-")
+          );
+          if (data.name === spName) {
+            this.sp.spriteFrame = this.spList[i];
+            break;
+          }
+        }
+      })
+      .start();
 
-    this._demo = demo;
-    this.nameLabel.string = data.name;
-    this.infoLabel.string = data.txt;
-    for (let i = 0; i < this.spList.length; i++) {
-      const spName = this.spList[i].name.substring(
-        0,
-        this.spList[i].name.indexOf("-")
-      );
-      if (data.name === spName) {
-        this.sp.spriteFrame = this.spList[i];
-        break;
-      }
-    }
     AudioManager.playItemSound(data.name);
   }
 
