@@ -1,5 +1,6 @@
 import AudioManager from "./AudioManager";
 import PopUI from "./PopUI";
+import { Utils } from "./Utils";
 
 const YellowConfigs = [
   `奥陶纪生命大灭绝——“有颌鱼类进化的序幕”`,
@@ -143,6 +144,15 @@ export default class Demo extends cc.Component {
           },
           this
         );
+
+        cc.tween(node)
+          .repeatForever(
+            cc
+              .tween()
+              .to(Utils.getRangeRandom(0.5, 1), { scale: 0.9 })
+              .to(Utils.getRangeRandom(0.5, 1), { scale: 1 })
+          )
+          .start();
       });
 
       this.blueBtns.children.forEach((node, index) => {
@@ -159,6 +169,15 @@ export default class Demo extends cc.Component {
           },
           this
         );
+
+        cc.tween(node)
+          .repeatForever(
+            cc
+              .tween()
+              .to(Utils.getRangeRandom(0.5, 1), { scale: 0.7 })
+              .to(Utils.getRangeRandom(0.5, 1), { scale: 0.8 })
+          )
+          .start();
       });
 
       this.yellowBtns.children.forEach((node, index) => {

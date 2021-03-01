@@ -22,7 +22,12 @@ export default class PopUI extends cc.Component {
   spList: cc.SpriteFrame[] = [];
   private _demo: Demo = null;
 
+  onLoad() {
+    this.node.opacity = 0;
+  }
   init(demo, data) {
+    cc.tween(this.node).to(0.2, { opacity: 255 }).start();
+
     this._demo = demo;
     this.nameLabel.string = data.name;
     this.infoLabel.string = data.txt;
@@ -44,6 +49,7 @@ export default class PopUI extends cc.Component {
     this.sp.spriteFrame = null;
     this.nameLabel.string = "";
     this.infoLabel.string = "";
+    this.node.opacity = 0;
     this._demo._setMusicVolume();
     AudioManager.stopAllItemSound();
   }
