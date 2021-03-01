@@ -63,7 +63,7 @@
     "_is3DNode": true,
     "_groupIndex": 0,
     "groupIndex": 0,
-    "autoReleaseAssets": false,
+    "autoReleaseAssets": true,
     "_id": "2d2f792f-a40c-49bb-a189-ed176a246e49"
   },
   {
@@ -4202,13 +4202,13 @@
         "__uuid__": "920da551-e317-41ca-8afd-068375dcaf66"
       },
       {
-        "__uuid__": "20e3a2c9-12b8-4c17-a0f3-47ad9cbe0cc4"
+        "__uuid__": "fa6c49de-660f-4027-bc79-d0d02f206c30"
       },
       {
         "__uuid__": "43b108b0-ca55-4250-882a-0971fdda946b"
       },
       {
-        "__uuid__": "6cd926c5-80f2-46a9-b272-0f5dd489d41b"
+        "__uuid__": "16622f0d-0ee9-46fd-870c-6657306fcccb"
       },
       {
         "__uuid__": "1bfd91c5-d664-4b1a-aace-6b11850a8a7a"
@@ -4220,10 +4220,10 @@
         "__uuid__": "8c9e207f-4ee4-43a9-9db7-41df0779f15c"
       },
       {
-        "__uuid__": "04a030bd-ea71-40df-ae40-1b7514ad8206"
+        "__uuid__": "4074a5d7-7052-463e-b75d-7c6481f28e98"
       },
       {
-        "__uuid__": "398bfe6d-1cbf-4b42-b5b0-27e29b781b66"
+        "__uuid__": "87f35584-b8e0-43b1-8432-86da6ab6fa6b"
       },
       {
         "__uuid__": "58d86639-85cc-42ed-9828-946f0f679632"
@@ -4235,7 +4235,7 @@
         "__uuid__": "bfe5d29e-b73d-4715-995c-641b7e01b1ba"
       },
       {
-        "__uuid__": "5aaeeff7-5cf7-4af0-b881-0569ce8da178"
+        "__uuid__": "2111606a-cf4c-4c17-8fa5-630ef20e9c0d"
       },
       {
         "__uuid__": "4e730307-c1d4-443a-b159-d245ab8e5b76"
@@ -4244,7 +4244,7 @@
         "__uuid__": "a76b07bf-9d53-4379-bde6-240491843113"
       },
       {
-        "__uuid__": "d4d7c07b-c08c-4dbb-9561-1260806ffbca"
+        "__uuid__": "34ff8d03-9951-4166-b6cf-2b3835df1c02"
       },
       {
         "__uuid__": "c4ad7667-2562-47c7-9cb6-d971deffcdf3"
