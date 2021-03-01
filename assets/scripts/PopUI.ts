@@ -52,7 +52,7 @@ export default class PopUI extends cc.Component {
     this.nameLabel.string = "";
     this.infoLabel.string = "";
     this.node.opacity = 0;
-    this._demo._setMusicVolume();
     AudioManager.stopAllItemSound();
+    this._demo._setMusicVolume();
   }
 }
