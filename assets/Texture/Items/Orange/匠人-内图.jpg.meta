@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "a9045266-fcb8-43ca-9a2b-31812d72b56c",
+  "uuid": "11ba28ae-fe05-429c-904c-d98bf3dde5ce",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -8,13 +8,13 @@
   "genMipmaps": false,
   "packable": true,
   "width": 1066,
-  "height": 639,
+  "height": 617,
   "platformSettings": {},
   "subMetas": {
-    "盾龟龙-内图": {
+    "匠人-内图": {
       "ver": "1.0.4",
-      "uuid": "398bfe6d-1cbf-4b42-b5b0-27e29b781b66",
-      "rawTextureUuid": "a9045266-fcb8-43ca-9a2b-31812d72b56c",
+      "uuid": "ec73eee0-beae-4e82-903c-413536d0dca3",
+      "rawTextureUuid": "11ba28ae-fe05-429c-904c-d98bf3dde5ce",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
@@ -23,9 +23,9 @@
       "trimX": 0,
       "trimY": 0,
       "width": 1066,
-      "height": 639,
+      "height": 617,
       "rawWidth": 1066,
-      "rawHeight": 639,
+      "rawHeight": 617,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

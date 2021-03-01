@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "b2cd3f1e-09fc-4c3d-aa7f-c97db3dc0f1b",
+  "uuid": "5c0ce415-d8ea-4a0f-962f-ee2164defa29",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -8,13 +8,13 @@
   "genMipmaps": false,
   "packable": true,
   "width": 1066,
-  "height": 625,
+  "height": 689,
   "platformSettings": {},
   "subMetas": {
-    "森林古猿-内图": {
+    "蜥螈-内图": {
       "ver": "1.0.4",
-      "uuid": "04a030bd-ea71-40df-ae40-1b7514ad8206",
-      "rawTextureUuid": "b2cd3f1e-09fc-4c3d-aa7f-c97db3dc0f1b",
+      "uuid": "74a7a381-18e1-470d-9954-a3491089d5c3",
+      "rawTextureUuid": "5c0ce415-d8ea-4a0f-962f-ee2164defa29",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
@@ -23,9 +23,9 @@
       "trimX": 0,
       "trimY": 0,
       "width": 1066,
-      "height": 625,
+      "height": 689,
       "rawWidth": 1066,
-      "rawHeight": 625,
+      "rawHeight": 689,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,

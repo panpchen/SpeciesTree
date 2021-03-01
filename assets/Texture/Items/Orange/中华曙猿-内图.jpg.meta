@@ -1,6 +1,6 @@
 {
   "ver": "2.3.5",
-  "uuid": "7b2268f6-bffa-44b0-98ba-ca20e71c2e05",
+  "uuid": "96f1fb9a-0cb4-4506-b505-e304ba58ff42",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
@@ -13,16 +13,16 @@
   "subMetas": {
     "中华曙猿-内图": {
       "ver": "1.0.4",
-      "uuid": "20e3a2c9-12b8-4c17-a0f3-47ad9cbe0cc4",
-      "rawTextureUuid": "7b2268f6-bffa-44b0-98ba-ca20e71c2e05",
+      "uuid": "1a1b35ff-0ab9-4b19-8d35-1f0fb9919062",
+      "rawTextureUuid": "96f1fb9a-0cb4-4506-b505-e304ba58ff42",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
-      "offsetX": -0.5,
+      "offsetX": 0,
       "offsetY": 0,
       "trimX": 0,
       "trimY": 0,
-      "width": 1065,
+      "width": 1066,
       "height": 673,
       "rawWidth": 1066,
       "rawHeight": 673,
